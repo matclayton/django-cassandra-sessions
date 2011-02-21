@@ -31,8 +31,7 @@ Installing django-cassandra-sessions
 setup(
     name='django-cassandra-sessions',
     version=version,
-    description="This is a session backend for Django that stores sessions in Cassandra,
-using the pycassa library.",
+    description="This is a session backend for Django that stores sessions in Cassandra, using the pycassa library.",
     long_description=LONG_DESCRIPTION,
     classifiers=[
         "Programming Language :: Python",
